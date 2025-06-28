@@ -2,6 +2,8 @@
 Weather app using real-time API integration with Python
 
 
+🎥 [Watch Demo Video on LinkedIn](https://www.linkedin.com/posts/srijeeta-dutta-a06b36318_python-deeplearning-computervision-activity-7337736938214330370-n1iI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCdJSYBh9GXUGk_7Ic17lxz3RWZEW_1Rzk)
+
 
 # 🌦 Weather Forecasting App using API 🌍
 
